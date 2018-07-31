@@ -84,6 +84,12 @@ a.nav-item:hover {
 	margin: 0 auto;
 }
 
+.intro-narrow {
+	text-align: justify;
+	width: 40%;
+	margin: 0 auto;
+}
+
 .void-background {
 	background-color: transparent; 
 }
