@@ -1,40 +1,13 @@
-# Studorlio
+# 💫 About Me:
+I am an ethusiastic robiticist focused on building and deploying robots that interact with the world.
 
-Studorlio is a template for your own personal site. You can have yours running on the cloud in exactly 10 seconds. But first, make sure you have a GitHub account. Ready, set, go!
 
-![Display Image](https://raw.githubusercontent.com/helfi92/studorlio/master/assets/img/studorlio.png)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmmarKothari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmmarKothari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarKothari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Getting Started
-1. Fork the repository to make it yours.
-2. Rename the forked repository to `username.github.io`, where `username` is your GitHub username.
-3. That's it! Navigate to `username.github.io` to see your website :) 
-
-If this is your first time making a website and is having trouble getting started, that's ok. Head over to the [FAQ](#faq) section and let me try help you.
-
-## Demo
-[http://www.hassanali.me/studorlio/](http://www.hassanali.me/studorlio/)
-
-## FAQ
-* [How do I fork this repository?](#how-do-i-fork-this-repository)
-* [How do I rename the forked repository?](#how-do-i-rename-the-forked-repository)
-* [How do I run the portfolio locally?](#how-do-i-run-the-portfolio-locally)
-
-### How do I fork this repository?
-1. Make sure you're logged into GitHub with your account
-2. Click the Fork button on the upper right-hand side of this page
-
-### How do I rename the forked repository?
-1. Navigate to the main page of the repository. It should be `https://github.com/username/studorlio/`, where `username` is your GitHub username
-2. Click Settings
-3. Under the Repository name heading, type `username.github.io` then click Rename
-
-### How do I run the portfolio locally?
-1. Right click (Windows) or double click (Mac) `index.html` and select "Open with"
-2. Pick your browser of choice
-
-## Bugs and Issues
-Have a bug or an issue with this template? [Open a new issue](https://github.com/helfi92/studorlio/issues)
-
-## License
-Code released under the [MIT](https://github.com/helfi92/studorlio/blob/master/LICENSE) license
-
+---
+[![](https://visitcount.itsvg.in/api?id=AmmarKothari&icon=0&color=0)](https://visitcount.itsvg.in)
