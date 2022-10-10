@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.1/css/bulma.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
 
-	<link rel="icon" type="image/x-icon" href="assets/img/favicon.png">
+	<link rel="icon" type="image/x-icon" href="assets/img/favicon.jpeg">
 	<meta name="author" content="Ammar Kothari">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -17,7 +17,7 @@
 			<!-- This "nav-menu" is hidden on mobile -->
 			<!-- Add the modifier "is-active" to display it on mobile -->
 			<div class="nav-left">
-				<a href="https://github.com/amarsbars" class="nav-item">
+				<a href="https://github.com/AmmarKothari" class="nav-item">
 					<span class="icon">
 						<i class="fa fa-github"></i>
 					</span>
@@ -52,20 +52,28 @@
 		<!-- About Me -->
 		<section id="about" class="section section-1">
 			<div class="container has-text-centered">
-				<!-- Source: https://flic.kr/p/pAZBNK -->
-				<img class="avatar" src="assets/img/profile.png">
+				<img class="avatar" src="assets/img/1534116627212.jpeg">
 			</div>
 			<div class="container"></br>
 				<p class="intro">
-					<p>I am interested in how robotics can improve our daily lives. 
-					I think we have a lot to gain from automating boring tasks and leaving ourselves to deal with the more interesting things.  My primary interest in robotics is in control and planning for manipulation tasks.  I find the challenge of dealing with a wide variety of objects and tasks complicated by noise from sensors and actuators an interesting challenge.  In general, I just want to make robots do useful things.</p>
-					<span></span>
-					<p> I really enjoy making things.  I commonly take things apart and unsuccessfully put them back together.  I usually damage parts and components.  I enjoy every second of it.  And once in a while, I even make something cool.</p>
-					<p> I love how software and hardware can be combined to complete physical tasks.  My fascination with robotics is based in achieving useful movements with machines.</p>
-					<span></span>
+					<p>
+						My goal is to work towards a world where robots are able to help people achieve goals.  
+						By deploying functional robots, I believe we can greatly improve our society.  
+						I am focused on how we can use robotics to in green tech.
+					</p>
+					<br>
+					<p>
+					My areas of focus in robotics are planning and controls, reliable operation, and integrating hardware and software.
+					I like to work on robots that change their environment.  Understanding contact, the implications, and modelling of the changing environment are fascinating challengs.
+					</p>
+					<br>
+					<p>
+					I have implemented complex planning of heavy machinery through changing environments with noisy sensors.  Deploying these algorithms and monitoring them gave me an appreciation for how good theoretical choices can crete a solid basis upon which we can build additional safeguards and short cuts to achieve high quality performance.
+					For faster picking systems, I have developed pick plans that are time sensitive and achieve consistent performance even with noisy inputs from machine learning models and a control system that provides minimal feedback.
+					</p>
+					<br>
 					<p>When I am not working on and dreaming about robots, I like to travel. I enjoy seeing people and places so different from me that it opens my mind up to the possibility of what could be.</p>
 					<span></span>
-					<p>  I want to work on projects that can change the world in real ways.  I don't want to work on projects for the rich, but instead projects that can revolutionize an entire society.</p>
 				</p>
 			</div>
 		</section>
@@ -78,20 +86,63 @@
 				</div>
 				
 				<div class="columns is-multiline is-desktop">
-					<!-- Project 1 -->
 					<div class="column">
 						<div class="box project-text">
 							<article>
 								<div>
+									<h4> Implemented new motors for existing and future robots</h4>		
+									<ul>
+										<li>- Reviewed motor selection and validated performance on test set.</li>
+										<li>- Worked with vendor to procure units ahead of delivery date based on business needs.</li>
+										<li>- Worked with vendor to integrate custom software into our system to achieve improved performance and reliability.</li>
+										<li>- Improved embedded C++ code for improved quality, integration of new hardware, and support multiple motor interfaces.</li>
+									</ul>
+								</div>
+							</article>
+						</div>
+					</div>
+					<div class="column">
+						<div class="box project-text">
+							<article>
+								<div>
+									<h4> Camera Calibration Validation</h4>		
+									<ul>
+										<li>- Analyzed existing process to determine what software was necessary to achieve validation of camera system.</li>
+										<li>- Wrote and deployed validation code to robots which helped save time in narrowing down robot failures to camera calibration issues.</li>
+									</ul>
+								</div>
+							</article>
+						</div>
+					</div>
+					<div class="column">
+						<div class="box project-text">
+							<article>
+								<div>
+									<h4> Path Planning for Industrial Equipment</h4>		
+									<ul>
+										<li>- Updated existing path planning system to be more robust and find a path more often (on par with human performance).</li>
+										<li>- Built out test suite to find and resolve edge cases.</li>
+										<li>- Deployed and monitored system to ensure successful performance of robot out in the field.</li>
+									</ul>
+								</div>
+							</article>
+						</div>
+					</div>
+					<!-- Project 1 -->
+					<div class="column">
+						<div class="box project-text">
+							<article>
+								<!-- <div>
 									<figure class="image project-figure">
 										<img src="assets/img/project-1.jpg" alt="Image">
 									</figure>
-								</div>
+								</div> -->
 								<div>
-									<h4> Forward Kinematics and Inverse Jacobian Control of a Manipulator blah</h4>		
-									<p>
-										blah blah blah
-									</p>
+									<h4> Forward Kinematics and Inverse Jacobian Control of a Manipulator</h4>		
+									<ul>
+										<li>- Calculated forward and inverse dynamics for a 7 DOF manipulator.</li>
+										<li>- Trained a NN to perform equally as well as the inverse dynamics calculation.</li>
+									</ul>
 								</div>
 							</article>
 						</div>
@@ -100,15 +151,19 @@
 					<div class="column">
 						<div class="box project-text">
 							<article>
-								<div>
+								<!-- <div>
 									<figure class="image project-figure">
 										<img src="assets/img/project-2.jpg" alt="Image">
 									</figure>
-								</div>
-								<div>			
-									<p>
-										Bless up. Another one. How’s business? Boomin. Don’t ever play yourself. Life is what you make it, so let’s make it.
-									</p>
+								</div> -->
+								<div>
+									<h4> Jenga playing robot</h4>		
+									<ul>
+										<li>- Built (component selection, soldering, and wire routing) electrical system and sensors.</li>
+										<li>- Wrote controls for each motor in embedded controller.</li>
+										<li>- Wrote path planning algorithm based on static map.</li>
+										<li>- Tuned overall system to achieve task goals.</li>
+									</ul>
 								</div>
 							</article>
 						</div>
